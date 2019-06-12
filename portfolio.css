@@ -1,0 +1,88 @@
+#header {
+    position: relative;
+    color: white;
+    border-bottom: 1px solid grey;
+    background-color: white; 
+}
+h1 {
+    display:inline-block;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    background-color:#4aaaa5;
+    padding: 20px;
+    margin: 0;
+
+
+}
+
+h2 {
+    color: #4aaaa5; 
+    margin-left: 25px;
+    padding: 5px;
+}
+
+
+a {
+color: gray;
+text-decoration: none;
+}
+
+
+
+navbar {
+margin: 500px; 
+}
+
+
+body {
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+background-color: #efeee7;
+color: #777777;
+margin: 0;
+padding: 0;
+
+}
+
+hr {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 4px;
+    right: 20px;
+    left: 13px;
+    background-color:#4aaaa5;
+    color: white;
+    padding-left: 20px;
+    padding-right: 40px;
+    width: 13%; 
+  }
+
+.boxed {
+border: 1px white;
+background-color: white;
+margin: 50px;
+}
+
+
+footer {
+color: white;
+border-top: 8px solid #4aaaa5;
+background-color: #666666; 
+padding-bottom: 0px;
+padding-top: 30px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
